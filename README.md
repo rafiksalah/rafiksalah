@@ -1,9 +1,9 @@
 <div align="center">
 
 # Rafik Salah
-### AI Agentic Engineer | Automation Architect (n8n) | Web Developer
+### AI Agentic Engineer | Automation Architect (n8n) | Frontend React Developer
 
-Building intelligent systems that automate business operations and scale productivity.
+Building intelligent automation systems and modern web applications.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rafiksalah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafik-salah-7ba136257)
@@ -16,38 +16,40 @@ Building intelligent systems that automate business operations and scale product
 
 ## About Me
 
-I design and build intelligent automation systems that reduce manual work, improve operational efficiency, and connect AI with real business workflows.
+I am a **Frontend React.js Developer** and **AI Agentic Engineer** specializing in building modern user interfaces and intelligent automation systems.
 
-My focus is **AI Agentic Engineering using n8n**, integrating LLMs, APIs, databases, and external tools into scalable automation pipelines.
+I design scalable web applications using React and integrate AI-powered workflows using **n8n**, APIs, databases, and external services to create production-ready automation solutions.
 
-I combine strong web development fundamentals with automation architecture to deliver production-ready systems.
+I bridge the gap between user experience and backend intelligence.
 
 ---
 
 ## What I Do
 
+- ⚛️ Develop responsive, scalable frontends using **React.js**
 - 🤖 Build AI Agents connected to tools, APIs, and databases  
-- ⚙️ Design and implement advanced n8n workflows  
-- 🔌 Develop API integrations & webhook architectures  
-- 📊 Automate CRM, lead processing, reporting, and support systems  
-- 🌐 Build scalable web applications  
+- ⚙️ Architect advanced **n8n automation workflows**
+- 🔌 Implement API integrations & webhook systems  
+- 📊 Automate CRM, lead pipelines, support systems, and reporting  
 
 ---
 
 ## Core Expertise
+
+### Frontend Development
+- React.js
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Responsive Design
+- REST API Integration
+- Component-based Architecture
 
 ### AI & Automation
 - n8n Workflow Architecture
 - AI Agent Design
 - LLM Integration
 - API Orchestration
-- Webhooks & Event-driven systems
-
-### Web Development
-- HTML5 / CSS3
-- JavaScript
-- Backend Integrations
-- REST APIs
+- Event-driven Systems
 
 ### Programming & Tools
 - Python
@@ -57,12 +59,12 @@ I combine strong web development fundamentals with automation architecture to de
 
 ---
 
-## Example Automation Use Cases
+## Example Solutions
 
-- AI-powered support ticket classification & response systems  
-- Lead qualification pipelines with automated CRM updates  
-- Automated reporting dashboards with scheduled insights  
-- Multi-step AI workflows connecting external services  
+- AI-powered support ticket classification systems  
+- Lead qualification & CRM automation pipelines  
+- Interactive React dashboards connected to automation backends  
+- Multi-step AI workflows integrating third-party services  
 
 ---
 
@@ -81,10 +83,10 @@ I combine strong web development fundamentals with automation architecture to de
 
 If you're looking to:
 
+- Build modern React applications  
 - Automate complex business processes  
 - Integrate AI into your operations  
-- Build scalable automation systems  
-- Develop production-ready web solutions  
+- Develop scalable automation systems  
 
 Feel free to connect.
 
@@ -95,6 +97,6 @@ Feel free to connect.
 
 <div align="center">
 
-**"Automation is leverage. Intelligence is scale."**
+**"Clean interfaces. Intelligent systems. Scalable automation."**
 
 </div>
