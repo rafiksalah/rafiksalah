@@ -1,102 +1,78 @@
-<div align="center">
+<div align="center" width="50">
 
-# Rafik Salah
-### AI Agentic Engineer | Automation Architect (n8n) | Frontend React Developer
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-Building intelligent automation systems and modern web applications.
+<details>
+<p><strong> <summary>  Busy coding & Building Intelligent Systems :   </summary> </strong></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rafiksalah)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafik-salah-7ba136257)
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=flat&logo=telegram&logoColor=white)](https://t.me/Rafiksalah)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rafiksalah181972@gmail.com)
+AI • React • Automation • n8n • APIs
 
-</div>
+</details>
 
----
-
-## About Me
-
-I am a **Frontend React.js Developer** and **AI Agentic Engineer** specializing in building modern user interfaces and intelligent automation systems.
-
-I design scalable web applications using React and integrate AI-powered workflows using **n8n**, APIs, databases, and external services to create production-ready automation solutions.
-
-I bridge the gap between user experience and backend intelligence.
-
----
-
-## What I Do
-
-- ⚛️ Develop responsive, scalable frontends using **React.js**
-- 🤖 Build AI Agents connected to tools, APIs, and databases  
-- ⚙️ Architect advanced **n8n automation workflows**
-- 🔌 Implement API integrations & webhook systems  
-- 📊 Automate CRM, lead pipelines, support systems, and reporting  
-
----
-
-## Core Expertise
-
-### Frontend Development
-- React.js
-- JavaScript (ES6+)
-- HTML5 / CSS3
-- Responsive Design
-- REST API Integration
-- Component-based Architecture
-
-### AI & Automation
-- n8n Workflow Architecture
-- AI Agent Design
-- LLM Integration
-- API Orchestration
-- Event-driven Systems
-
-### Programming & Tools
-- Python
-- PostgreSQL / SQLite
-- Git
-- Linux
-
----
-
-## Example Solutions
-
-- AI-powered support ticket classification systems  
-- Lead qualification & CRM automation pipelines  
-- Interactive React dashboards connected to automation backends  
-- Multi-step AI workflows integrating third-party services  
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rafiksalah&show_icons=true&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiksalah&layout=compact&hide_border=true" width="48%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=rafiksalah&style=flat&color=orange&label=PROFILE+VIEWS)
+[![telegram badge](https://img.shields.io/badge/RafikSalah-grey?style=flat&logo=telegram)](https://t.me/Rafiksalah) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafik-salah-7ba136257)
 
 </div>
 
----
+<hr>
 
-## Let's Work Together
+# 👋 Hi, I'm Rafik Salah  
 
-If you're looking to:
+### 🌐 Frontend React.js Developer  
+### 🤖 AI Agentic Engineer (n8n)  
+### ⚙️ Automation Architect  
 
-- Build modern React applications  
-- Automate complex business processes  
-- Integrate AI into your operations  
-- Develop scalable automation systems  
-
-Feel free to connect.
-
-📩 Email: rafiksalah181972@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/rafik-salah-7ba136257  
+I build modern web interfaces and intelligent automation systems that connect AI with real-world workflows.
 
 ---
 
-<div align="center">
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
 
-**"Clean interfaces. Intelligent systems. Scalable automation."**
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-</div>
+### 🤖 AI & Automation
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-005571?style=flat)
+![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=flat)
+
+### 🗄 Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+```javascript
+// About Me in Code
+
+class RafikSalah {
+  constructor() {
+    this.role = [
+      "Frontend React Developer",
+      "AI Agentic Engineer",
+      "Automation Architect"
+    ];
+
+    this.stack = {
+      frontend: ["React.js", "JavaScript", "HTML", "CSS"],
+      automation: ["n8n", "LLM Integration", "API Orchestration"],
+      backend_tools: ["Python"],
+      databases: ["PostgreSQL", "SQLite"],
+      devOps: ["Linux", "Git"]
+    };
+  }
+
+  build() {
+    return "Scalable interfaces + Intelligent automation systems";
+  }
+}
